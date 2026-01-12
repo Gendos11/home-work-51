@@ -29,16 +29,3 @@ Run the development server:
 npm run dev
 ```
 
-## Demo
-
-Add your deployed link here after publishing:
-
-- https://your-demo-link.example
-
-## Deployment
-
-You can deploy with Vercel or Netlify:
-
-1. Push the repository to GitHub.
-2. Import it into Vercel or Netlify.
-3. Use the default build command `npm run build` and output directory `dist`.
